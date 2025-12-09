@@ -1,0 +1,6 @@
+List of quantum logic gates: https://en.wikipedia.org/wiki/List_of_quantum_logic_gates#Rotation_operator_gates
+
+General definition of quantum logic gate: https://en.wikipedia.org/wiki/Quantum_logic_gate#Representation
+
+Old qiskit Textbook (with math): https://github.com/Qiskit/textbook/tree/main/notebooks/ch-gates
+
